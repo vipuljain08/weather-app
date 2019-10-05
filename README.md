@@ -9,4 +9,4 @@ Simple JS web application return with ejs and return the current weather. This a
 * request package
 
 ### How to run the app locally: 
-1. Run > npm install
+1. Run `<npm install>`
